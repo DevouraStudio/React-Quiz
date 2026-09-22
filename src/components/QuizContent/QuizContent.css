@@ -1,0 +1,23 @@
+#start-btn {
+  padding: 14px 40px;
+  font-size: 1rem;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+  color: white;
+  background: linear-gradient(135deg, #8b5cf6, #6d28d9);
+  border: none;
+  border-radius: 2rem;
+  cursor: pointer;
+  box-shadow: 0 4px 14px rgba(109, 40, 217, 0.4);
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+
+#start-btn:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(109, 40, 217, 0.55);
+}
+
+#start-btn:active {
+  transform: translateY(0);
+  box-shadow: 0 2px 8px rgba(109, 40, 217, 0.4);
+}
