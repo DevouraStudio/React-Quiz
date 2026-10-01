@@ -1,4 +1,5 @@
 import QuizContextProvider from "../../store/QuizContext";
+import QuizContent from "../QuizContent/QuizContent";
 
 import "./App.css";
 
