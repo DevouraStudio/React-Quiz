@@ -168,3 +168,19 @@ Standard Create React App scripts, defined in `package.json`:
 - Load questions from an external API or JSON file instead of a hardcoded array.
 - Add unit tests for the timer/state-machine logic in `QuizBox`.
 - Allow configuring the number of questions or timer duration.
+
+- ## License
+
+No license specified yet.
+
+## Created With
+ 
+This project was originally created with [CodeSandbox](https://codesandbox.io/).
+
+## Author
+
+- Website - [DevouraStudio](https://www.devoura.ir)
+- Frontendmentor - [@DevouraStudio](https://www.frontendmentor.io/profile/DevouraStudio)
+- Github - [@DevouraStudio](https://www.github.com/DevouraStudio)
+- Codepen - [@DevouraStudio](https://www.codepen.io/DevouraStudio)
+- Codesandbox - [@DevouraStudio](https://codesandbox.io/u/DevouraStudio)
